@@ -4,7 +4,7 @@ supported_currencies = {
     "EUR": "(Euro)",
     "GBP": "(Great Britain Pound)"
 }
-
+# Currencies above here
 
 # USD below here
 def usd_to_cad():
