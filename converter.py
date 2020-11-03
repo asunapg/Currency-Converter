@@ -1,3 +1,4 @@
+# Copyright: PestControl Labs LLP (d.b.a P.C. Labs // P.C. Lbs)
 supported_currencies = {
     "USD": "(US Dollar)",
     "CAD": "(Canadian Dollar)",
